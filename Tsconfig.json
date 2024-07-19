@@ -1,0 +1,8 @@
+{
+    "compilerOptions"{
+    "module": "commonJs",
+    "target":"2017",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata":true
+    }
+}
